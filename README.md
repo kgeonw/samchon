@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhnam88)](https://www.instagram.com/jhnam88)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/jhnam88)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kgeonw&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kgeonw&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgeonw&column=4&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
